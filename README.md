@@ -81,23 +81,23 @@ Below are selected screenshots from the SQL query results.
 
 ### Most common job title for each department
 
-![Most common job title](Employee SQl Output/most_common_job_titles.png)
+![Most common job title](output/q4_most_common_job_titles.png)
 
 ### Employees who have changed departments more than 1 time
 
-![Changed departments](Employee SQl Output/changed_dept_more_than_once.png)
+![Changed departments more than once](output/q5_changed_dept.png)
 
 ### Salary growth percentage for each employee
 
-![Salary growth percentage](Employee SQl Output/salary_growth_%.png)
+![Salary growth percentage](output/q6_salary_growth.png)
 
 ### Departments with the Most Gender Diversity
 
-![Gender diversity](Employee SQl Output/depts_gender_diversity.png)
+![Gender diversity](output/q7_gender_diversity.png)
 
 ### each department manager’s average managed salary
 
-![Average managed salary](Employee SQl Output/dept_managers_avg_managed_salary.png)
+![Average managed salary](output/q8_avg_managed_salary.png)
 
 ## How to Run the Project
 
