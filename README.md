@@ -108,16 +108,3 @@ Below are selected screenshots from the SQL query results.
 * Some employees have worked in multiple departments, showing internal movement within the company.
 * Department-level summaries can be automated using views and stored procedures.
 
-## Repository Structure
-
-```text
-employee-sql-analysis/
-│
-├── README.md
-├── employee_analysis.sql
-└── screenshots/
-```
-
-## Author
-
-Khin Myat Thu
