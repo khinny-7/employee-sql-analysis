@@ -75,6 +75,30 @@ Calculates the average current salary of employees managed by each current depar
 
 Creates a reusable view of current employees with salary information. A stored procedure is then created to generate department-level salary summaries based on a department parameter.
 
+## Sample Outputs
+
+Below are selected screenshots from the SQL query results.
+
+### Most common job title for each department
+
+![Most common job title](Employee SQl Output/most_common_job_titles.png)
+
+### Employees who have changed departments more than 1 time
+
+![Changed departments](Employee SQl Output/changed_dept_more_than_once.png)
+
+### Salary growth percentage for each employee
+
+![Salary growth percentage](Employee SQl Output/salary_growth_%.png)
+
+### Departments with the Most Gender Diversity
+
+![Gender diversity](Employee SQl Output/depts_gender_diversity.png)
+
+### each department manager’s average managed salary
+
+![Average managed salary](Employee SQl Output/dept_managers_avg_managed_salary.png)
+
 ## How to Run the Project
 
 1. Install the MySQL Employees Sample Database.
