@@ -95,7 +95,7 @@ Below are selected screenshots from the SQL query results.
 
 ![Gender diversity](output/q7_gender_diversity.png)
 
-### each department manager’s average managed salary
+### Each department manager’s average managed salary
 
 ![Average managed salary](output/q8_avg_managed_salary.png)
 
