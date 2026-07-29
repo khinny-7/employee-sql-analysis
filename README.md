@@ -21,12 +21,6 @@ The database contains employee-related tables such as:
 
 The full database is not included in this repository because it is a publicly available sample database and can be installed separately.
 
-## Tools Used
-
-* MySQL
-* MySQL Workbench
-* SQL
-
 ## SQL Skills Demonstrated
 
 This project demonstrates the following SQL techniques:
