@@ -99,34 +99,6 @@ Below are selected screenshots from the SQL query results.
 
 ![Average managed salary](output/q8_avg_managed_salary.png)
 
-## How to Run the Project
-
-1. Install the MySQL Employees Sample Database.
-2. Open MySQL Workbench or another SQL client.
-3. Select the Employees database:
-
-```sql
-USE employees;
-```
-
-4. Open the file:
-
-```text
-employee_analysis.sql
-```
-
-5. Run each query section one by one.
-
-For the stored procedure section, run the `CREATE VIEW` statement first, then run the stored procedure code.
-
-Example stored procedure calls:
-
-```sql
-CALL department_level_salary_summary('d005');
-CALL department_level_salary_summary(NULL);
-```
-
-The first call returns the summary for department `d005`, while the second call returns summaries for all departments.
 
 ## Key Insights
 
